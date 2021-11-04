@@ -7,3 +7,5 @@
 - 💬 Ask me about JavaScript, HTML, CSS, Jinja, Pug, React, Redux, Express, Node, SQL, PostgreSQL, Sequelize, Python, Flask, SQLAlchemy, Git
 - 📫 Holler at me, I'll talk to you! [LinkedIn](https://www.linkedin.com/in/darren-via-ii-552667159/) Email: <aivnerrad1993@gmail.com> Phone: 681-261-9706
 - ⚡ Coolest thing I've done (so far): I have driven across the United States ***6 times from coast-to-coast!*** 3 times I have gone from North-to-South, twice on the East coast and once on the west.
+
+[![Darren's GitHub stats](https://github-readme-stats.vercel.app/api?username=aivnerrad)](https://github.com/aivnerrad/github-readme-stats)
