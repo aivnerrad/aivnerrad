@@ -1,4 +1,4 @@
-### Hello, my name is Darren Via, and I am a software developer!
+### Hello, my name is Darren Via
 
 - 🔭 I’m currently working on an NBA Player Info App, an apartment rental app, and a Web3 project!
 - 🌱 I’m currently learning how to use Algolia's InstantSearch library!
